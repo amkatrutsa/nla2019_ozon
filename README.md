@@ -9,3 +9,4 @@
 | 14.07.2019 | Canceled due to super typhoon in Japan | | |
 | 21.10.2019 | [Eigenvalues and eigenvectors. Schur decomposition and how we compute it](./lectures/lecture4/lecture4.ipynb) | [Seminar 5](./seminars/seminar5/seminar5.ipynb)|
 | 28.10.2019 | | [Seminar 6](./seminars/seminar6/seminar6.ipynb) |
+| 04.11.2019 | [SVD and how we compute it. Sparse matrices: how we store them and compute LU decomposition. Spectral partitioning and Fiedler vector](./lectures/lecture5/lecture5.ipynb) | | |
