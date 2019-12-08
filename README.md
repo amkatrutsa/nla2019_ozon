@@ -13,3 +13,5 @@
 | 11.11.2019 | [Intro to iterative methods. Krylov subspace. Great iterative methods: CG and GMRES](./lectures/lecture6/lecture6.ipynb) | | [HW2](./hw/hw2/hw2.ipynb) (Deadline: December, 9, 01:00) | 
 | 18.11.2019 | | [Seminar 7](./seminars/seminar7/seminar7.ipynb) | | 
 | 25.11.2019 | [Preconditioners and iterative methods for eigenvalue problem](./lectures/lecture7/lecture7.ipynb) | | |
+| 02.12.2019 | | Seminar 8 | |
+| 09.12.2019 | [Structured matrices, convolutions, FFT, Toeplitz matrices](./lectures/lecture8/lecture-8.ipynb) | | |
