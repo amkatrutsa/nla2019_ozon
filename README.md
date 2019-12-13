@@ -15,3 +15,4 @@
 | 25.11.2019 | [Preconditioners and iterative methods for eigenvalue problem](./lectures/lecture7/lecture7.ipynb) | | |
 | 02.12.2019 | | Seminar 8 | |
 | 09.12.2019 | [Structured matrices, convolutions, FFT, Toeplitz matrices](./lectures/lecture8/lecture-8.ipynb) | | |
+| 16.12.2019 | [Matrix functions and matrix equations](./lectures/lecture9/lecture-9.ipynb) | | |
